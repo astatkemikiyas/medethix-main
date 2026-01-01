@@ -1,0 +1,1 @@
+export type SupplementMode = 'with' | 'without';

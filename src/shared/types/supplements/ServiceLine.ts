@@ -1,0 +1,1 @@
+export interface ServiceLine { id: string; codeId: string | null; quantity: number; }
